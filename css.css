@@ -1,0 +1,40 @@
+#title{
+   text-align: center;
+   font-size: 30px;
+   font-weight: bold;
+   padding: 10px 10px 10px 10px;
+   font-style: normal;
+   font-family: arial;
+   height: 10%;
+   width: 60%;
+   background-color: lightblue;
+   border-top-left-radius: 25%;
+   border-top-right-radius: 25%;
+   border-bottom-color: blue;
+   border-top-color: white;
+   border-left-color: white;
+   border-right-color: white;
+   border-bottom-width: 1.8%;
+   border-style: solid;
+   border-bottom-left-radius: 3%;
+   border-bottom-right-radius: 3%;
+}
+
+#form{
+    width: 62.2%;
+    height: 40%;
+    background-color: lightblue;
+}
+
+body{
+    background-color: white;
+}
+
+.field{
+    border-color: lightblue;
+    border-style: solid;
+}
+
+#checkbutton{
+    
+}

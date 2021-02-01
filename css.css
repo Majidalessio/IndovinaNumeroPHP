@@ -7,7 +7,7 @@
    font-family: arial;
    height: 10%;
    width: 60%;
-   background-color: lightblue;
+   background-color: lightgray;
    border-top-left-radius: 25%;
    border-top-right-radius: 25%;
    border-bottom-color: blue;
@@ -21,9 +21,10 @@
 }
 
 #form{
-    width: 62.2%;
+    width: 60%;
     height: 40%;
-    background-color: lightblue;
+    background-color: lightgray;
+    padding: 10px 10px 10px 10px;
 }
 
 body{
@@ -31,7 +32,7 @@ body{
 }
 
 .field{
-    border-color: lightblue;
+    border-color: lightgray;
     border-style: solid;
 }
 
